@@ -1,10 +1,6 @@
 ## Olá, me chamo Flávio Monteiro do Santos ! 
 ### Bem vindo ao meu perfil GitHub 👋
-- 
-<p>-Atualmente estou desenvolvendo habilidades para me tornar um excelente desenvolvedor Front-end
--trabalho em uma área que não tem nada a ver com tecnologia e estou nessa transição uma vez que tecnologia 
-sempre foi a minha paixao.</p>
-
+-
 
 - 🔭 Atualmente estou estudando  ...
 - 🌱 Atualmente estou aprendendo ...

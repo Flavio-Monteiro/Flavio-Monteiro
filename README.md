@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 -
 
-- 🔭 Atualmente estou estudando  ...
+- 🔭 Atualmente estou iniciando minha carreira como desenvolvedor e estou dando os primeiros passos de muitos para chegar aonde eu quero...
 - 🌱 Atualmente estou aprendendo ...
 - 👯 Estou procurando colaborar em ...
 - 🤔 Estou procurando ajuda com ...
@@ -21,6 +21,14 @@ Atualmente esctou aprendendo</br>
 
 <h3>Tenho interesse em:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=react,vue,ts,)](https://skillicons.dev)</br>
 
+### Contatos:
 
+<div>
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/flaviomds89" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.facebook.com/flaviomds89" target="_blank"><img src="https://img.shields.io/badge/facebook-9146FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href = "mailto:flavioms216@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>

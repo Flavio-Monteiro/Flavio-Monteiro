@@ -4,12 +4,13 @@
 
 - 🔭 Atualmente estou iniciando minha carreira como desenvolvedor e estou dando os primeiros passos de muitos para chegar aonde eu quero...
 - 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
 - 🤔 Estou procurando ajuda com ...
 - 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+- 📫 Como entrar em contato comigo: 
+- (031) 9 8021-7295 
+- email: flavio.ms@outlook.com.br
+- 
+
     
 <!---
 Flavio-Monteiro/Flavio-Monteiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +32,11 @@ Atualmente esctou aprendendo</br>
 <a href="https://www.facebook.com/flaviomds89" target="_blank"><img src="https://img.shields.io/badge/facebook-9146FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href = "mailto:flavioms216@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+<div>
+<a href="https://github.com/Flavio-Monteiro">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Monteiro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flavio-Monteiro-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
